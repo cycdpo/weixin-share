@@ -1,5 +1,5 @@
 /*!
- * weixin-share v1.3.2
+ * weixin-share v1.3.3
  * Homepage: https://github.com/cycdpo/weixin-share#readme
  * Released under the MIT License.
  */

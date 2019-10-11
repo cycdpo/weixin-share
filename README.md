@@ -1,7 +1,6 @@
 # Weixin Share
 
 [![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
 [![David deps][david-image]][david-url]
 [![devDependencies Status][david-dev-image]][david-dev-url]
 [![npm download][download-image]][download-url]
@@ -10,8 +9,6 @@
 
 [npm-image]: https://img.shields.io/npm/v/weixin-share.svg
 [npm-url]: https://npmjs.org/package/weixin-share
-[travis-image]: https://img.shields.io/travis/cycdpo/weixin-share.svg?style=flat-square
-[travis-url]: https://travis-ci.org/cycdpo/weixin-share
 [david-image]: https://img.shields.io/david/cycdpo/weixin-share.svg?style=flat-square
 [david-url]: https://david-dm.org/cycdpo/weixin-share
 [david-dev-image]: https://david-dm.org/cycdpo/weixin-share/dev-status.svg?style=flat-square
@@ -25,6 +22,11 @@
 
 * An easier way to call Wechat share on a web page.
 [Releases](https://github.com/cycdpo/weixin-share/releases)
+
+## This package has been deprecated
+[new-url]: https://github.com/cycjimmy/weixin-share
+
+**This package has been migrated to [@cycjimmy/weixin-share][new-url] for scoped NPM package. Please switch to [@cycjimmy/weixin-share][new-url] to stay up to date.**
 
 ## How to use
 ### Install
